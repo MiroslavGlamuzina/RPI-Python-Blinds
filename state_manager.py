@@ -4,9 +4,8 @@ MAX_UP = 6000
 MIN_DOWN = 0
 STEPS = 2048
 
-
 def calibrate():
-    file = open('/home/pi/pyBlinds/state.txt', 'r+')
+    file = open('/home/pi/RPI-Python-Blinds/state.txt', 'r+')
     file.seek(0)
     file.truncate()
 
@@ -42,7 +41,7 @@ def get_next_values(current_value, action):
 
 
 def update(action):
-    file = open('/home/pi/pyBlinds/state.txt', 'r+')
+    file = open('/home/pi/RPI-Python-Blinds/state.txt', 'r+')
     cur = get_state(file)
     tmp = get_next_values(cur, action)
     next_value = tmp[0]
@@ -60,7 +59,7 @@ def update(action):
 
 
 def log(str_value):
-    file = open('/home/pi/pyBlinds/log.txt', 'a+')
+    file = open('/home/pi/RPI-Python-Blinds/log.txt', 'a+')
     file.write(str(datetime.now()) + "\r\n" + str_value + "\r\n\r\n")
     print(str(datetime.now()) + "\r\n" + str_value + "\r\n\r\n")
     file.close()
