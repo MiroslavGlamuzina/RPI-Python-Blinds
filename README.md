@@ -1,5 +1,7 @@
 # RPI-Python-Blinds
 
+Simple Raspberry Pi blinds controller and state manager in Python.
+
 ## Setup 
 
 - If needed; 
