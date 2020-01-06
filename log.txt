@@ -79,3 +79,13 @@ Value: 2048
 Steps: 2048
 
 
+2020-01-06 18:50:46.566686
+Calibrating...
+Ensure to kill when blinds are fully down (at 0)
+
+2020-01-06 18:51:25.423946
+Previous value: 0
+Value: 2048
+Steps: 2048
+
+

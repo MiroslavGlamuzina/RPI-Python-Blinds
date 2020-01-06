@@ -44,10 +44,10 @@ def move(sequence, delay, steps):
     GPIO.cleanup()
 
 
-if sys.argv[1] == '1':
+if sys.argv[1] == 'down' or sys.argv[1] == '1':
     TYPE = DOWN_SEQUENCE
     STEPS = update('DOWN')
-elif sys.argv[1] == '0':
+elif sys.argv[1] == 'up' or sys.argv[1] == '0':
     TYPE = UP_SEQUENCE
     STEPS = update('UP')
 elif sys.argv[1] == 'calibrate' or sys.argv[1] == 'c':
