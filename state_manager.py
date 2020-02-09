@@ -2,7 +2,7 @@ from datetime import datetime
 
 MAX_UP = 6000
 MIN_DOWN = 0
-STEPS = 2048
+STEPS = 3000
 
 def calibrate():
     file = open('/home/pi/RPI-Python-Blinds/state.txt', 'r+')
