@@ -4,6 +4,7 @@ MAX_UP = 6000
 MIN_DOWN = 0
 STEPS = 3000
 
+
 def calibrate():
     file = open('/home/pi/RPI-Python-Blinds/state.txt', 'r+')
     file.seek(0)
@@ -24,26 +25,41 @@ def get_state(file):
     return cur
 
 
-def get_next_values(current_value, action):
+def get_next_values(current_value, action, percent):
     steps = STEPS
+    next_value = 0
     if action == 'UP':
         next_value = int(current_value + STEPS)
         if next_value >= MAX_UP:
             next_value = MAX_UP
             steps = MAX_UP - current_value
-    else:
+    elif action == 'DOWN':
         next_value = int(current_value - STEPS)
         if next_value <= MIN_DOWN:
             next_value = MIN_DOWN
             steps = current_value
-
+    elif action == 'SET':  # set to #
+        steps = 0
+        percent = float((percent / 100.00) * MAX_UP)
+        if current_value >= int(percent):  # DOWN
+            next_value = int(percent)
+            steps = current_value - int(percent)
+            if next_value <= MIN_DOWN:
+                next_value = MIN_DOWN
+                steps = current_value
+        else:  # UP
+            next_value = int(percent)
+            steps = next_value - current_value
+            if next_value >= MAX_UP:
+                next_value = MAX_UP
+                steps = MAX_UP - current_value
     return [next_value, steps]
 
 
-def update(action):
+def update(action, value=False):
     file = open('/home/pi/RPI-Python-Blinds/state.txt', 'r+')
     cur = get_state(file)
-    tmp = get_next_values(cur, action)
+    tmp = get_next_values(cur, action, value)
     next_value = tmp[0]
     next_steps = tmp[1]
 
@@ -55,7 +71,8 @@ def update(action):
 
     file.write(str(next_value))
     file.close()
-    return next_steps
+
+    return [next_steps, cur < next_value]
 
 
 def log(str_value):

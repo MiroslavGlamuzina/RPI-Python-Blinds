@@ -99,3 +99,12270 @@ Value: 3000
 Steps: 3000
 
 
+2020-02-09 20:00:00.524554
+Calibrating...
+Ensure to kill when blinds are fully down (at 0)
+
+2020-02-09 20:00:43.447494
+Previous value: 0
+Value: 3000
+Steps: 3000
+
+
+2020-02-09 20:07:03.836380
+Previous value: 3000
+Value: 0
+Steps: 3000
+
+
+2020-02-09 20:08:34.547692
+Previous value: 0
+Value: 3000
+Steps: 3000
+
+
+2020-02-09 20:17:03.879685
+Previous value: 3000
+Value: 6000
+Steps: 3000
+
+
+2020-02-09 20:17:30.593986
+Previous value: 6000
+Value: 3000
+Steps: 3000
+
+
+2020-02-09 20:18:03.047173
+Previous value: 3000
+Value: 6000
+Steps: 3000
+
+
+2020-02-09 20:19:03.305732
+Previous value: 6000
+Value: 6000
+Steps: 0
+
+
+2020-02-09 20:20:03.625606
+Previous value: 6000
+Value: 6000
+Steps: 0
+
+
+2020-02-09 20:21:02.913083
+Previous value: 6000
+Value: 6000
+Steps: 0
+
+
+2020-02-09 20:22:03.455468
+Previous value: 6000
+Value: 6000
+Steps: 0
+
+
+2020-02-09 20:23:04.107878
+Previous value: 6000
+Value: 6000
+Steps: 0
+
+
+2020-02-09 20:24:03.371250
+Previous value: 6000
+Value: 6000
+Steps: 0
+
+
+2020-02-09 20:25:03.922399
+Previous value: 6000
+Value: 6000
+Steps: 0
+
+
+2020-02-09 20:26:03.342942
+Previous value: 6000
+Value: 6000
+Steps: 0
+
+
+2020-02-09 20:27:03.570028
+Previous value: 6000
+Value: 6000
+Steps: 0
+
+
+2020-02-09 20:28:03.787187
+Previous value: 6000
+Value: 6000
+Steps: 0
+
+
+2020-02-09 20:29:03.170143
+Previous value: 6000
+Value: 6000
+Steps: 0
+
+
+2020-02-09 20:30:03.382007
+Previous value: 6000
+Value: 6000
+Steps: 0
+
+
+2020-02-09 20:31:03.952191
+Previous value: 6000
+Value: 6000
+Steps: 0
+
+
+2020-02-09 20:32:03.170929
+Previous value: 6000
+Value: 6000
+Steps: 0
+
+
+2020-02-09 20:33:03.638129
+Previous value: 6000
+Value: 6000
+Steps: 0
+
+
+2020-02-09 20:34:04.118772
+Previous value: 6000
+Value: 6000
+Steps: 0
+
+
+2020-02-09 20:35:03.213985
+Previous value: 6000
+Value: 6000
+Steps: 0
+
+
+2020-02-09 20:36:03.447448
+Previous value: 6000
+Value: 6000
+Steps: 0
+
+
+2020-02-09 20:37:03.962282
+Previous value: 6000
+Value: 6000
+Steps: 0
+
+
+2020-02-09 20:38:03.216605
+Previous value: 6000
+Value: 6000
+Steps: 0
+
+
+2020-02-09 20:39:03.419162
+Previous value: 6000
+Value: 6000
+Steps: 0
+
+
+2020-02-09 20:40:04.046632
+Previous value: 6000
+Value: 6000
+Steps: 0
+
+
+2020-02-09 20:41:03.406433
+Previous value: 6000
+Value: 6000
+Steps: 0
+
+
+2020-02-09 20:42:03.984870
+Previous value: 6000
+Value: 6000
+Steps: 0
+
+
+2020-02-09 20:43:03.560819
+Previous value: 6000
+Value: 6000
+Steps: 0
+
+
+2020-02-09 20:44:03.900996
+Previous value: 6000
+Value: 6000
+Steps: 0
+
+
+2020-02-09 20:44:12.890816
+Previous value: 6000
+Value: 3000
+Steps: 3000
+
+
+2020-02-09 20:45:03.008060
+Previous value: 3000
+Value: 6000
+Steps: 3000
+
+
+2020-02-09 20:46:03.659631
+Previous value: 6000
+Value: 6000
+Steps: 0
+
+
+2020-02-09 20:47:02.920836
+Previous value: 6000
+Value: 3000
+Steps: 3000
+
+
+2020-02-09 20:49:01.183660
+TYPE was not defined
+
+2020-02-09 20:54:10.177919
+Calibrating...
+Ensure to kill when blinds are fully down (at 0)
+
+2020-02-10 01:00:03.804016
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-10 01:01:03.183081
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-10 01:02:03.517029
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-10 01:03:03.927188
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-10 01:04:03.191355
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-10 01:05:03.557140
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-10 01:06:03.930923
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-10 01:07:03.151042
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-10 01:08:03.529005
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-10 01:09:03.967007
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-10 01:10:03.239380
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-10 01:11:03.589918
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-10 01:12:03.898110
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-10 01:13:03.075521
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-10 01:14:03.468730
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-10 01:15:04.148945
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-10 01:16:03.477831
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-10 01:17:03.627346
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-10 01:18:04.284013
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-10 01:19:03.524743
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-10 01:20:03.963612
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-10 01:21:03.313080
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-10 01:22:03.529296
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-10 01:23:03.734463
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-10 01:24:03.439474
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-10 01:25:03.736748
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-10 01:26:02.996742
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-10 01:27:03.535671
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-10 01:28:03.801880
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-10 01:29:03.011231
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-10 01:30:03.619502
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-10 01:31:03.972553
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-10 01:32:03.176604
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-10 01:33:03.779330
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-10 01:34:03.300096
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-10 01:35:03.613780
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-10 01:36:03.951560
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-10 01:37:03.179430
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-10 01:38:03.411776
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-10 01:39:04.115366
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-10 01:40:03.269101
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-10 01:41:03.658726
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-10 01:42:04.029160
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-10 01:43:03.514482
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-10 01:44:03.871399
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-10 01:45:03.923123
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-10 01:46:03.178177
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-10 01:47:03.751284
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-10 01:48:04.107197
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-10 01:49:03.821914
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-10 01:50:03.087024
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-10 01:51:03.519462
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-10 01:52:03.833492
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-10 01:53:03.815423
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-10 01:54:03.271159
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-10 01:55:03.551196
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-10 01:56:03.933018
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-10 01:57:03.681232
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-10 01:58:03.840681
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-10 01:59:03.110971
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-10 04:30:04.279437
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-10 13:00:03.827665
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-10 13:01:03.105765
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-10 13:02:03.368615
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-10 13:03:03.968538
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-10 13:04:03.166016
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-10 13:05:03.406331
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-10 13:06:03.894814
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-10 13:07:03.235083
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-10 13:08:03.628046
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-10 13:09:04.154693
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-10 13:10:03.440997
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-10 13:11:03.787003
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-10 13:12:03.417027
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-10 13:13:03.575183
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-10 13:14:03.803580
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-10 13:15:03.466290
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-10 13:16:03.634680
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-10 13:17:03.848983
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-10 13:18:03.460733
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-10 13:19:03.690650
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-10 13:20:03.840344
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-10 13:21:03.364243
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-10 13:22:03.716509
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-10 13:23:03.789355
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-10 13:24:03.260507
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-10 13:25:03.640892
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-10 13:26:02.872933
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-10 13:27:03.531971
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-10 13:28:03.842929
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-10 13:29:03.124629
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-10 13:30:03.571887
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-10 13:31:03.667002
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-10 13:32:03.144118
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-10 13:33:03.673586
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-10 13:34:02.861848
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-10 13:35:03.229414
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-10 13:36:03.657430
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-10 13:37:02.995759
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-10 13:38:03.359258
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-10 13:39:03.706814
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-10 13:40:03.160321
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-10 13:41:03.392801
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-10 13:42:04.049355
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-10 13:43:03.226480
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-10 13:44:03.508304
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-10 13:45:03.956958
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-10 13:46:03.289874
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-10 13:47:03.578277
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-10 13:48:04.268544
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-10 13:49:03.440488
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-10 13:50:03.655642
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-10 13:51:04.151696
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-10 13:52:03.472545
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-10 13:53:03.789886
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-10 13:54:03.229790
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-10 13:55:03.720269
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-10 13:56:03.847450
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-10 13:57:03.347241
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-10 13:58:03.658632
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-10 13:59:02.933813
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-10 14:05:03.766610
+Previous value: 0
+Value: 3000
+Steps: 3000
+
+
+2020-02-10 16:14:58.671665
+Previous value: 3000
+Value: 6000
+Steps: 3000
+
+
+2020-02-10 20:50:59.007295
+Previous value: 6000
+Value: 6000
+Steps: 0
+
+
+2020-02-10 20:51:00.938950
+Previous value: 6000
+Value: 3000
+Steps: 3000
+
+
+2020-02-11 01:00:03.722693
+Previous value: 3000
+Value: 0
+Steps: 3000
+
+
+2020-02-11 01:01:04.144265
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-11 01:02:03.283355
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-11 01:03:04.136144
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-11 01:04:03.492413
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-11 01:05:03.574904
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-11 01:06:04.157617
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-11 01:07:03.483129
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-11 01:08:03.932688
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-11 01:09:03.343624
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-11 01:10:03.732366
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-11 01:11:04.997846
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-11 01:12:04.104989
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-11 01:13:03.743013
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-11 01:14:03.240761
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-11 01:15:03.916963
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-11 01:16:03.906676
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-11 01:17:03.518881
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-11 01:18:03.800712
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-11 01:19:04.146903
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-11 01:20:03.784926
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-11 01:21:04.171333
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-11 01:22:03.526323
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-11 01:23:03.630768
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-11 01:24:04.349482
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-11 01:25:03.345599
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-11 01:26:03.602432
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-11 01:27:04.229596
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-11 01:28:03.679707
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-11 01:29:03.930721
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-11 01:30:03.304520
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-11 01:31:03.494285
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-11 01:32:03.784096
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-11 01:33:03.256319
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-11 01:34:03.618673
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-11 01:35:04.060025
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-11 01:36:03.416918
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-11 01:37:03.610232
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-11 01:38:04.022085
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-11 01:39:03.343168
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-11 01:40:03.641824
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-11 01:41:04.048661
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-11 01:42:03.348516
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-11 01:43:03.606662
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-11 01:44:04.067386
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-11 01:45:03.463270
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-11 01:46:03.890433
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-11 01:47:03.262537
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-11 01:48:03.635951
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-11 01:49:04.022441
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-11 01:50:03.682164
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-11 01:51:03.966992
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-11 01:52:03.094839
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-11 01:53:03.576074
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-11 01:54:03.876394
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-11 01:55:03.187629
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-11 01:56:03.570633
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-11 01:57:03.754989
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-11 01:58:03.247328
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-11 01:59:03.572248
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-11 04:30:03.595362
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-11 13:00:03.260646
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-11 13:01:03.653876
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-11 13:02:03.821032
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-11 13:03:03.261450
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-11 13:04:03.670535
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-11 13:05:04.057115
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-11 13:06:03.506171
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-11 13:07:03.801098
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-11 13:08:03.096395
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-11 13:09:03.549105
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-11 13:10:03.725569
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-11 13:11:03.092545
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-11 13:12:03.488607
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-11 13:13:03.778593
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-11 13:14:03.075178
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-11 13:15:03.353728
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-11 13:16:03.585290
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-11 13:17:03.811389
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-11 13:18:03.336109
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-11 13:19:03.533905
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-11 13:20:03.765850
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-11 13:21:03.359244
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-11 13:22:03.521508
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-11 13:23:03.751171
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-11 13:24:03.251439
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-11 13:25:03.668831
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-11 13:26:03.876888
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-11 13:27:03.249987
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-11 13:28:03.496160
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-11 13:29:03.722992
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-11 13:30:03.241094
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-11 13:31:03.533938
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-11 13:32:03.751170
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-11 13:33:04.223777
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-11 13:34:03.451347
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-11 13:35:03.746810
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-11 13:36:03.965613
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-11 13:37:23.135391
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-11 13:38:03.458106
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-11 13:39:04.121142
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-11 13:40:03.181539
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-11 13:41:03.454577
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-11 13:42:04.109777
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-11 13:43:03.293314
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-11 13:44:03.529049
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-11 13:45:04.033982
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-11 13:46:03.364681
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-11 13:47:03.475274
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-11 13:48:04.186599
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-11 13:49:03.539567
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-11 13:50:03.889286
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-11 13:51:03.251821
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-11 13:52:03.462472
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-11 13:53:03.703559
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-11 13:54:03.041848
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-11 13:55:03.303423
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-11 13:56:03.611899
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-11 13:57:04.095029
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-11 13:58:03.458854
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-11 13:59:03.582426
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-11 14:05:04.007393
+Previous value: 0
+Value: 3000
+Steps: 3000
+
+
+2020-02-12 01:00:03.945971
+Previous value: 3000
+Value: 0
+Steps: 3000
+
+
+2020-02-12 01:01:03.256489
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-12 01:02:03.372427
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-12 01:03:03.910379
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-12 01:04:02.976802
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-12 01:05:03.316808
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-12 01:06:03.610670
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-12 01:07:03.868490
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-12 01:08:08.400476
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-12 01:09:03.299245
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-12 01:10:03.621265
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-12 01:11:03.037814
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-12 01:12:03.379733
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-12 01:13:03.850275
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-12 01:14:02.924360
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-12 01:15:03.264809
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-12 01:16:04.019497
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-12 01:17:03.209199
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-12 01:18:03.415846
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-12 01:19:03.062549
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-12 01:20:03.116953
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-12 01:21:03.415344
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-12 01:22:03.110867
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-12 01:23:03.309353
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-12 01:24:03.493137
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-12 01:25:03.256733
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-12 01:26:03.288088
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-12 01:27:03.428497
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-12 01:28:03.250780
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-12 01:29:03.471908
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-12 01:30:03.624089
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-12 01:31:03.637212
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-12 01:32:03.784224
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-12 01:33:03.023137
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-12 01:34:03.584064
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-12 01:35:03.684491
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-12 01:36:02.983763
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-12 01:37:03.767136
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-12 01:38:03.951442
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-12 01:39:03.448302
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-12 01:40:03.841990
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-12 01:41:03.964082
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-12 01:42:03.469751
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-12 01:43:04.018683
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-12 01:44:03.003848
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-12 01:45:03.438831
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-12 01:46:04.123621
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-12 01:47:03.423903
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-12 01:48:03.779092
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-12 01:49:03.154868
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-12 01:50:03.572639
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-12 01:51:03.744465
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-12 01:52:03.261807
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-12 01:53:03.433339
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-12 01:54:03.798057
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-12 01:55:03.312751
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-12 01:56:03.543239
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-12 01:57:03.924104
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-12 01:58:03.521330
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-12 01:59:04.125977
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-12 04:30:04.056006
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-12 13:00:03.895939
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-12 13:01:03.151151
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-12 13:02:03.407353
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-12 13:03:03.723044
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-12 13:04:03.038170
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-12 13:05:03.260119
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-12 13:06:03.549519
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-12 13:07:04.032842
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-12 13:08:03.176482
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-12 13:09:03.718610
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-12 13:10:03.935403
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-12 13:11:03.248245
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-12 13:12:03.586008
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-12 13:13:03.899618
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-12 13:14:03.096258
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-12 13:15:03.622947
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-12 13:16:03.856968
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-12 13:17:03.389246
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-12 13:18:03.800249
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-12 13:19:03.164364
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-12 13:20:03.330074
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-12 13:21:03.889827
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-12 13:22:03.096575
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-12 13:23:03.490391
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-12 13:24:03.984599
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-12 13:25:03.181347
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-12 13:26:03.419589
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-12 13:27:03.951272
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-12 13:28:03.421510
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-12 13:29:03.752564
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-12 13:30:03.080938
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-12 13:31:03.283218
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-12 13:32:03.670184
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-12 13:33:04.107546
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-12 13:34:03.318540
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-12 13:35:03.623149
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-12 13:36:03.101520
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-12 13:37:03.450337
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-12 13:38:03.744300
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-12 13:39:03.246941
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-12 13:40:03.446985
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-12 13:41:03.572002
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-12 13:42:04.037125
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-12 13:43:03.268564
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-12 13:44:03.608905
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-12 13:45:03.984091
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-12 13:46:03.295189
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-12 13:47:03.565537
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-12 13:48:04.122184
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-12 13:49:03.207752
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-12 13:50:03.499119
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-12 13:51:03.781822
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-12 13:52:03.027915
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-12 13:53:03.266912
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-12 13:54:03.749973
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-12 13:55:03.073994
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-12 13:56:03.330313
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-12 13:57:03.621699
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-12 13:58:02.846734
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-12 13:59:03.183598
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-12 14:05:03.613369
+Previous value: 0
+Value: 3000
+Steps: 3000
+
+
+2020-02-13 01:00:04.147623
+Previous value: 3000
+Value: 0
+Steps: 3000
+
+
+2020-02-13 01:01:03.450973
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-13 01:02:03.629636
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-13 01:03:04.214989
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-13 01:04:03.278626
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-13 01:05:03.672220
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-13 01:06:04.113753
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-13 01:07:03.322117
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-13 01:08:03.530575
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-13 01:09:04.055335
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-13 01:10:03.117123
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-13 01:11:03.440440
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-13 01:12:04.061314
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-13 01:13:03.266333
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-13 01:14:03.376222
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-13 01:15:03.905999
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-13 01:16:03.030716
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-13 01:17:03.676029
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-13 01:18:04.105756
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-13 01:19:03.444868
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-13 01:20:03.598126
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-13 01:21:04.126997
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-13 01:22:03.332482
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-13 01:23:03.494636
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-13 01:24:04.137164
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-13 01:25:03.394684
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-13 01:26:03.700047
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-13 01:27:04.144396
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-13 01:28:03.317464
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-13 01:29:03.616767
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-13 01:30:04.188969
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-13 01:31:03.388582
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-13 01:32:03.635587
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-13 01:33:04.210150
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-13 01:34:03.459699
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-13 01:35:05.211440
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-13 01:36:03.509447
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-13 01:37:03.728105
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-13 01:38:03.039549
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-13 01:39:03.531978
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-13 01:40:03.840461
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-13 01:41:03.081746
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-13 01:42:03.402387
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-13 01:43:03.630722
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-13 01:44:03.894539
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-13 01:45:03.549063
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-13 01:46:03.780213
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-13 01:47:03.036525
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-13 01:48:03.560794
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-13 01:49:03.749499
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-13 01:50:03.037512
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-13 01:51:03.586586
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-13 01:52:03.655593
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-13 01:53:04.017788
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-13 01:54:03.844742
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-13 01:55:03.093767
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-13 01:56:03.366328
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-13 01:57:04.006384
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-13 01:58:03.362593
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-13 01:59:03.586798
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-13 04:30:08.610175
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-13 13:00:03.838356
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-13 13:01:03.072550
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-13 13:02:03.444788
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-13 13:03:03.841662
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-13 13:04:03.054644
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-13 13:05:03.541767
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-13 13:06:04.028892
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-13 13:07:03.242027
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-13 13:08:03.492017
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-13 13:09:04.029326
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-13 13:10:03.237875
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-13 13:11:03.505484
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-13 13:12:04.005691
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-13 13:13:03.465458
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-13 13:14:03.583076
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-13 13:15:04.169540
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-13 13:16:03.635845
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-13 13:17:03.917716
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-13 13:18:03.665979
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-13 13:19:03.729652
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-13 13:20:03.942241
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-13 13:21:03.411546
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-13 13:22:03.665135
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-13 13:23:03.997723
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-13 13:24:03.447397
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-13 13:25:03.812136
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-13 13:26:04.106143
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-13 13:27:03.393754
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-13 13:28:03.549537
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-13 13:29:04.059895
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-13 13:30:03.307792
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-13 13:31:03.685287
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-13 13:32:04.064387
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-13 13:33:03.410918
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-13 13:34:03.658699
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-13 13:35:04.207029
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-13 13:36:03.611383
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-13 13:37:03.852544
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-13 13:38:04.328679
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-13 13:39:03.660416
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-13 13:40:03.810197
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-13 13:41:04.347600
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-13 13:42:03.582561
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-13 13:43:03.647732
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-13 13:44:04.430821
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-13 13:45:03.429648
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-13 13:46:04.017894
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-13 13:47:03.627657
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-13 13:48:04.159460
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-13 13:49:03.451862
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-13 13:50:03.843325
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-13 13:51:03.179909
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-13 13:52:03.350045
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-13 13:53:03.991809
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-13 13:54:03.055715
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-13 13:55:03.277947
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-13 13:56:03.982786
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-13 13:57:03.242690
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-13 13:58:03.625600
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-13 13:59:03.949003
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-13 14:05:03.583961
+Previous value: 0
+Value: 3000
+Steps: 3000
+
+
+2020-02-14 01:00:04.079093
+Previous value: 3000
+Value: 0
+Steps: 3000
+
+
+2020-02-14 01:01:04.187075
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-14 01:02:03.545073
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-14 01:03:03.968671
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-14 01:04:04.352617
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-14 01:05:03.803079
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-14 01:06:04.231679
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-14 01:07:03.546525
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-14 01:08:03.849922
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-14 01:09:04.383582
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-14 01:10:03.552681
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-14 01:11:03.880923
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-14 01:12:04.614705
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-14 01:13:03.782191
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-14 01:14:04.080264
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-14 01:15:03.610084
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-14 01:16:03.895210
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-14 01:17:04.255082
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-14 01:18:03.615227
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-14 01:19:03.858406
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-14 01:20:04.408065
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-14 01:21:03.609905
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-14 01:22:04.107713
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-14 01:23:03.528868
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-14 01:24:03.858624
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-14 01:25:04.193810
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-14 01:26:03.691996
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-14 01:27:03.963185
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-14 01:28:04.158582
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-14 01:29:03.593480
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-14 01:30:04.010195
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-14 01:31:03.286886
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-14 01:32:03.780182
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-14 01:33:03.897276
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-14 01:34:04.131278
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-14 01:35:08.619315
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-14 01:36:03.994358
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-14 01:37:04.148276
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-14 01:38:03.789158
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-14 01:39:04.114061
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-14 01:40:03.321486
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-14 01:41:03.898652
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-14 01:42:04.201010
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-14 01:43:03.443694
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-14 01:44:04.036978
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-14 01:45:03.351832
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-14 01:46:03.549252
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-14 01:47:03.961667
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-14 01:48:04.234514
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-14 01:49:03.448172
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-14 01:50:04.118420
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-14 01:51:03.265066
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-14 01:52:03.499104
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-14 01:53:04.013258
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-14 01:54:04.399415
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-14 01:55:03.668947
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-14 01:56:04.303026
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-14 01:57:03.473960
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-14 01:58:03.874430
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-14 01:59:04.256460
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-14 04:30:04.256770
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-14 13:00:04.158159
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-14 13:01:04.354035
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-14 13:02:03.627048
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-14 13:03:04.018683
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-14 13:04:04.343729
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-14 13:05:03.674396
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-14 13:06:04.393104
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-14 13:07:03.548189
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-14 13:08:03.921798
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-14 13:09:04.688677
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-14 13:10:03.803178
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-14 13:11:04.216201
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-14 13:12:04.752389
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-14 13:13:03.967207
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-14 13:14:04.367430
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-14 13:15:03.771968
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-14 13:16:04.124861
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-14 13:17:04.812546
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-14 13:18:04.011304
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-14 13:19:04.347596
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-14 13:20:03.612800
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-14 13:21:04.083550
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-14 13:22:04.173499
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-14 13:23:04.490950
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-14 13:24:04.075956
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-14 13:25:04.488302
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-14 13:26:03.569081
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-14 13:27:04.070203
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-14 13:28:04.250416
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-14 13:29:03.584074
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-14 13:30:04.193192
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-14 13:31:04.558700
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-14 13:32:03.715362
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-14 13:33:04.291354
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-14 13:34:03.542468
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-14 13:35:03.962849
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-14 13:36:04.291791
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-14 13:37:03.855524
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-14 13:38:03.884358
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-14 13:39:04.287133
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-14 13:40:03.685389
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-14 13:41:04.220900
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-14 13:42:04.648755
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-14 13:43:03.772520
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-14 13:44:04.020755
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-14 13:45:04.663337
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-14 13:46:04.133183
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-14 13:47:04.557394
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-14 13:48:04.073384
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-14 13:49:04.250776
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-14 13:50:03.728221
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-14 13:51:03.947286
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-14 13:52:04.557292
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-14 13:53:04.036404
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-14 13:54:04.383647
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-14 13:55:03.824476
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-14 13:56:04.123054
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-14 13:57:04.798765
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-14 13:58:04.263747
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-14 13:59:04.482909
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-14 14:05:03.915846
+Previous value: 0
+Value: 3000
+Steps: 3000
+
+
+2020-02-15 01:00:04.223657
+Previous value: 3000
+Value: 0
+Steps: 3000
+
+
+2020-02-15 01:01:04.479379
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-15 01:02:04.849120
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-15 01:03:03.984282
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-15 01:04:04.287781
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-15 01:05:04.894676
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-15 01:06:04.113522
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-15 01:07:04.305012
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-15 01:08:04.949546
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-15 01:09:03.978352
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-15 01:10:04.344024
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-15 01:11:04.584445
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-15 01:12:03.799691
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-15 01:13:04.009733
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-15 01:14:04.728039
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-15 01:15:03.751589
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-15 01:16:03.953307
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-15 01:17:04.621606
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-15 01:18:03.866399
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-15 01:19:04.283923
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-15 01:20:04.650016
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-15 01:21:03.915319
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-15 01:22:04.213072
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-15 01:23:04.493564
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-15 01:24:03.695439
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-15 01:25:04.006389
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-15 01:26:04.678594
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-15 01:27:04.122300
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-15 01:28:04.148298
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-15 01:29:04.671419
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-15 01:30:03.756142
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-15 01:31:03.985532
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-15 01:32:04.620544
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-15 01:33:04.222393
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-15 01:34:04.599788
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-15 01:35:04.374018
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-15 01:36:05.241761
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-15 01:37:04.011082
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-15 01:38:04.538874
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-15 01:39:04.642997
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-15 01:40:04.012284
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-15 01:41:04.332380
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-15 01:42:04.471557
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-15 01:43:03.821353
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-15 01:44:04.307204
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-15 01:45:04.664353
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-15 01:46:03.876904
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-15 01:47:04.275598
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-15 01:48:04.501562
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-15 01:49:03.865858
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-15 01:50:04.217230
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-15 01:51:04.548668
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-15 01:52:03.824265
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-15 01:53:04.191505
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-15 01:54:04.416428
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-15 01:55:04.764281
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-15 01:56:04.266523
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-15 01:57:04.357002
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-15 01:58:04.581756
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-15 01:59:03.961922
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-15 04:30:04.934849
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-15 13:00:04.727319
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-15 13:01:04.298435
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-15 13:02:04.844522
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-15 13:03:04.172371
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-15 13:04:04.341352
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-15 13:05:04.671127
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-15 13:06:04.277186
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-15 13:07:04.562777
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-15 13:08:04.820817
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-15 13:09:04.245259
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-15 13:10:04.699122
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-15 13:11:05.268709
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-15 13:12:04.662594
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-15 13:13:03.942668
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-15 13:14:04.359587
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-15 13:15:04.690952
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-15 13:16:04.771831
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-15 13:17:04.300085
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-15 13:18:04.708768
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-15 13:19:04.978212
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-15 13:20:04.388962
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-15 13:21:04.708134
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-15 13:22:04.853164
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-15 13:23:04.372974
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-15 13:24:04.559797
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-15 13:25:04.801561
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-15 13:26:04.212067
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-15 13:27:04.519895
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-15 13:28:04.886303
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-15 13:29:04.400750
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-15 13:30:04.440615
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-15 13:31:04.716323
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-15 13:32:04.131620
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-15 13:33:04.445782
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-15 13:34:04.780713
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-15 13:35:05.143656
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-15 13:36:04.402791
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-15 13:37:04.668389
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-15 13:38:05.270959
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-15 13:39:04.422352
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-15 13:40:04.757976
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-15 13:41:04.236448
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-15 13:42:04.563872
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-15 13:43:04.796766
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-15 13:44:04.182561
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-15 13:45:04.290416
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-15 13:46:04.776636
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-15 13:47:04.017545
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-15 13:48:04.253026
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-15 13:49:04.634864
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-15 13:50:04.843435
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-15 13:51:04.178049
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-15 13:52:04.579495
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-15 13:53:04.863039
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-15 13:54:04.239664
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-15 13:55:04.689805
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-15 13:56:04.896127
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-15 13:57:04.153986
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-15 13:58:04.652281
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-15 13:59:04.864837
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-15 14:05:04.436964
+Previous value: 0
+Value: 3000
+Steps: 3000
+
+
+2020-02-16 01:00:04.809347
+Previous value: 3000
+Value: 0
+Steps: 3000
+
+
+2020-02-16 01:01:04.417542
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-16 01:02:04.493178
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-16 01:03:04.825878
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-16 01:04:05.217980
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-16 01:05:04.426465
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-16 01:06:04.775199
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-16 01:07:05.018374
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-16 01:08:04.241868
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-16 01:09:04.823224
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-16 01:10:05.011821
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-16 01:11:04.120372
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-16 01:12:04.690556
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-16 01:13:04.996989
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-16 01:14:05.483297
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-16 01:15:04.848854
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-16 01:16:05.041060
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-16 01:17:04.327921
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-16 01:18:04.970497
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-16 01:19:04.146249
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-16 01:20:04.365655
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-16 01:21:05.092613
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-16 01:22:04.409248
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-16 01:23:04.634428
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-16 01:24:05.287730
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-16 01:25:04.672966
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-16 01:26:04.817791
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-16 01:27:05.347406
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-16 01:28:04.450530
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-16 01:29:04.755026
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-16 01:30:05.230111
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-16 01:31:04.662940
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-16 01:32:04.749293
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-16 01:33:05.415292
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-16 01:34:04.600445
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-16 01:35:04.794747
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-16 01:36:05.209623
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-16 01:37:04.410134
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-16 01:38:04.928710
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-16 01:39:05.308196
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-16 01:40:04.500737
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-16 01:41:04.888770
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-16 01:42:05.106961
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-16 01:43:04.370830
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-16 01:44:04.861356
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-16 01:45:05.298356
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-16 01:46:04.440375
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-16 01:47:04.707116
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-16 01:48:05.329031
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-16 01:49:04.578988
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-16 01:50:04.830221
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-16 01:51:05.180352
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-16 01:52:04.470627
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-16 01:53:04.704476
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-16 01:54:05.344945
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-16 01:55:04.422152
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-16 01:56:04.744562
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-16 01:57:05.182839
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-16 01:58:04.361847
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-16 01:59:04.541370
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-16 04:30:04.504031
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-16 13:00:04.031033
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-16 13:01:03.040555
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-16 13:02:03.411091
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-16 13:03:03.932312
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-16 13:04:03.243995
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-16 13:05:03.621147
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-16 13:06:04.272307
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-16 13:07:03.477724
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-16 13:08:03.957476
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-16 13:09:03.550015
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-16 13:10:03.798172
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-16 13:11:02.967520
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-16 13:12:02.920062
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-16 13:13:03.945148
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-16 13:14:03.536377
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-16 13:15:03.595515
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-16 13:16:03.814570
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-16 13:17:03.552240
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-16 13:18:03.354265
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-16 13:19:03.350931
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-16 13:20:03.267719
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-16 13:21:04.003986
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-16 13:22:03.511228
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-16 13:23:03.680880
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-16 13:24:03.276981
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-16 13:25:03.552433
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-16 13:26:04.063139
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-16 13:27:03.666356
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-16 13:28:02.991413
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-16 13:29:03.404717
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-16 13:30:03.878146
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-16 13:31:03.152753
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-16 13:32:03.659160
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-16 13:33:04.084609
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-16 13:34:03.307964
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-16 13:35:03.400504
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-16 13:36:04.281451
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-16 13:37:03.665573
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-16 13:38:03.900659
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-16 13:39:03.394430
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-16 13:40:03.742453
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-16 13:41:02.959905
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-16 13:42:03.579280
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-16 13:43:03.801354
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-16 13:44:03.145822
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-16 13:45:03.656896
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-16 13:46:03.867067
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-16 13:47:03.127346
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-16 13:48:03.812016
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-16 13:49:03.064444
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-16 13:50:03.616849
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-16 13:51:04.073424
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-16 13:52:03.547125
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-16 13:53:04.076847
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-16 13:54:03.704256
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-16 13:55:02.937331
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-16 13:56:03.276289
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-16 13:57:03.698822
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-16 13:58:03.068097
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-16 13:59:03.287142
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-16 14:05:03.882732
+Previous value: 0
+Value: 3000
+Steps: 3000
+
+
+2020-02-17 01:00:03.795114
+Previous value: 3000
+Value: 0
+Steps: 3000
+
+
+2020-02-17 01:01:02.838459
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-17 01:02:03.110116
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-17 01:04:24.962316
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-17 01:05:03.225527
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-17 01:06:03.562968
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-17 01:07:04.124286
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-17 01:08:03.493954
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-17 01:33:54.574086
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-17 01:34:53.265623
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-17 01:35:03.665030
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-17 01:36:03.801436
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-17 01:57:06.686863
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-17 01:58:06.001172
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-17 01:59:03.500218
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-17 04:30:03.560994
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-17 13:00:03.329754
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-17 13:01:03.662250
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-17 13:02:03.831570
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-17 13:03:03.215101
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-17 13:04:03.566062
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-17 13:05:03.852176
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-17 13:06:03.233612
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-17 13:07:03.359954
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-17 13:08:03.732461
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-17 13:09:04.051526
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-17 13:10:03.329596
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-17 13:11:03.842949
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-17 13:12:03.080395
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-17 13:13:03.238741
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-17 13:14:03.684422
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-17 13:15:03.885056
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-17 13:16:03.237397
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-17 13:17:03.932402
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-17 13:18:03.350009
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-17 13:19:03.653466
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-17 13:20:04.173014
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-17 13:21:03.335138
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-17 13:22:03.553504
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-17 13:23:03.936985
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-17 13:24:03.274891
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-17 13:25:03.506861
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-17 13:26:04.088389
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-17 13:27:03.315849
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-17 13:28:03.463034
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-17 13:29:03.910306
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-17 13:30:03.135361
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-17 13:31:03.538636
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-17 13:32:03.930377
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-17 13:33:03.175012
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-17 13:34:03.368289
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-17 13:35:03.829492
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-17 13:36:03.037265
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-17 13:37:03.467364
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-17 13:38:03.882981
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-17 13:39:03.176771
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-17 13:40:03.304172
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-17 13:41:03.783470
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-17 13:42:03.949514
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-17 13:43:03.094743
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-17 13:44:03.669300
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-17 13:45:03.028798
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-17 13:46:03.347979
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-17 13:47:03.843387
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-17 13:48:03.028065
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-17 13:49:03.322723
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-17 13:50:03.719635
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-17 13:51:03.405456
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-17 13:52:03.748084
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-17 13:53:03.146493
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-17 13:54:03.470515
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-17 13:55:03.740583
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-17 13:56:03.178508
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-17 13:57:03.382007
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-17 13:58:03.789743
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-17 13:59:04.124451
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-17 14:05:03.410462
+Previous value: 0
+Value: 3000
+Steps: 3000
+
+
+2020-02-17 15:57:09.444032
+Previous value: 3000
+Value: 0
+Steps: 3000
+
+
+2020-02-18 00:51:28.670047
+Previous value: 0
+Value: 3000
+Steps: 3000
+
+
+2020-02-18 01:00:03.927975
+Previous value: 3000
+Value: 0
+Steps: 3000
+
+
+2020-02-18 01:01:03.136842
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-18 01:02:03.466320
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-18 01:03:04.155369
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-18 01:04:03.631599
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-18 01:05:03.778533
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-18 01:06:03.326205
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-18 01:07:03.529394
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-18 01:08:03.993101
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-18 01:09:03.145904
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-18 01:10:03.895790
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-18 01:11:03.425942
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-18 01:12:03.628061
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-18 01:13:03.627332
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-18 01:14:03.677224
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-18 01:15:03.931353
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-18 01:16:03.408309
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-18 01:17:06.637506
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-18 01:18:03.990403
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-18 01:19:03.558230
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-18 01:20:04.323804
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-18 01:21:03.499591
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-18 01:22:04.381452
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-18 01:23:03.857812
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-18 01:24:03.206603
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-18 01:25:04.713889
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-18 01:26:03.494936
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-18 01:27:04.105594
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-18 01:28:03.628539
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-18 01:29:03.423908
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-18 01:30:03.918096
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-18 01:31:04.774899
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-18 01:32:04.104610
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-18 01:33:04.093054
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-18 01:34:04.614116
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-18 01:35:04.025508
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-18 01:36:03.976778
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-18 01:37:03.530621
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-18 01:38:03.324164
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-18 01:39:04.329455
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-18 01:40:03.525261
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-18 01:41:03.840624
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-18 01:42:06.832884
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-18 01:43:05.111936
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-18 01:44:03.901292
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-18 01:45:03.743298
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-18 01:46:04.176763
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-18 01:47:03.470247
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-18 01:48:04.247613
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-18 01:49:03.433098
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-18 01:50:03.805112
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-18 01:51:04.407705
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-18 01:52:04.695740
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-18 01:53:03.125526
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-18 01:54:03.827533
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-18 01:55:04.211888
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-18 01:56:03.594089
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-18 01:57:03.410319
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-18 01:58:03.889460
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-18 01:59:03.161247
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-18 04:30:03.963440
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-18 13:00:03.577070
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-18 13:01:03.923479
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-18 13:02:03.185790
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-18 13:03:03.759226
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-18 13:04:03.098186
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-18 13:05:03.221737
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-18 13:06:03.667617
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-18 13:07:03.879630
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-18 13:08:03.193174
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-18 13:09:03.484875
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-18 13:10:03.881818
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-18 13:11:02.951753
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-18 13:12:03.606104
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-18 13:13:03.890893
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-18 13:14:03.256886
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-18 13:15:03.570816
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-18 13:16:03.735188
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-18 13:17:03.698453
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-18 13:18:03.550991
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-18 13:19:03.915586
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-18 13:20:03.029096
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-18 13:21:03.615357
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-18 13:22:03.963387
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-18 13:23:03.283511
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-18 13:24:03.605924
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-18 13:25:04.128429
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-18 13:26:03.269606
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-18 13:27:03.822360
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-18 13:28:03.021498
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-18 13:29:03.216958
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-18 13:30:03.780115
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-18 13:31:04.017830
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-18 13:32:03.370037
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-18 13:33:03.845449
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-18 13:34:03.001462
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-18 13:35:03.316876
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-18 13:36:03.849231
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-18 13:37:03.184475
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-18 13:38:03.305871
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-18 13:39:03.964741
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-18 13:40:03.341236
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-18 13:41:03.577042
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-18 13:42:03.959272
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-18 13:43:03.196841
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-18 13:44:03.462114
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-18 13:45:03.997050
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-18 13:46:03.254118
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-18 13:47:03.489622
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-18 13:48:03.994508
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-18 13:49:03.280831
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-18 13:50:03.467404
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-18 13:51:04.010084
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-18 13:52:03.028464
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-18 13:53:03.305127
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-18 13:54:03.857652
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-18 13:55:03.140869
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-18 13:56:03.503090
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-18 13:57:03.922425
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-18 13:58:03.257722
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-18 13:59:03.681574
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-18 14:05:04.374122
+Previous value: 0
+Value: 3000
+Steps: 3000
+
+
+2020-02-18 15:53:46.050376
+Previous value: 3000
+Value: 0
+Steps: 3000
+
+
+2020-02-19 01:00:03.963874
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-19 01:01:03.185901
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-19 01:02:04.419319
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-19 01:03:04.036078
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-19 01:04:03.852113
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-19 01:05:03.478528
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-19 01:06:04.276309
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-19 01:07:03.460522
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-19 01:08:04.356069
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-19 01:09:03.812666
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-19 01:10:03.990625
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-19 01:11:03.911890
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-19 01:12:03.574214
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-19 01:13:03.928937
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-19 01:14:03.291603
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-19 01:15:03.822128
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-19 01:16:03.106053
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-19 01:17:04.036391
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-19 01:18:03.754739
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-19 01:19:03.805799
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-19 01:20:03.381947
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-19 01:21:04.061619
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-19 01:22:04.244131
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-19 01:23:04.102939
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-19 01:24:04.251558
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-19 01:25:04.358078
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-19 01:26:04.605532
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-19 01:27:04.137733
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-19 01:28:03.656188
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-19 01:29:02.938095
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-19 01:30:04.045415
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-19 01:31:03.443323
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-19 01:32:04.047191
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-19 01:33:04.458033
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-19 01:34:03.951797
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-19 01:35:03.114864
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-19 01:36:03.498396
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-19 01:37:03.740930
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-19 01:38:03.108381
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-19 01:39:04.014093
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-19 01:40:03.519189
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-19 01:41:03.940841
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-19 01:42:03.354840
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-19 01:43:03.556856
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-19 01:44:04.774710
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-19 01:45:04.516831
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-19 01:46:04.828508
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-19 01:47:03.814191
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-19 01:48:03.948212
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-19 01:49:03.755086
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-19 01:50:03.595086
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-19 01:51:03.860182
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-19 01:52:04.214737
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-19 01:53:03.697431
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-19 01:54:04.300854
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-19 01:55:04.504023
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-19 01:56:04.191593
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-19 01:57:04.583464
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-19 01:58:04.208572
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-19 01:59:03.989772
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-19 04:30:03.841148
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-19 13:00:03.553722
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-19 13:01:04.019937
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-19 13:02:03.130007
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-19 13:03:03.658057
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-19 13:04:03.989827
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-19 13:05:03.280418
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-19 13:06:03.892349
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-19 13:07:03.076334
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-19 13:08:03.387239
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-19 13:09:03.914645
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-19 13:10:03.254487
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-19 13:11:03.504933
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-19 13:12:04.166531
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-19 13:13:03.317108
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-19 13:14:03.473305
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-19 13:15:03.979744
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-19 13:16:03.066762
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-19 13:17:03.611451
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-19 13:18:03.997573
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-19 13:19:03.219801
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-19 13:20:03.581980
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-19 13:21:03.897770
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-19 13:22:03.131750
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-19 13:23:03.448518
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-19 13:24:03.906478
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-19 13:25:03.172800
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-19 13:26:03.591323
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-19 13:27:04.069746
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-19 13:28:03.160531
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-19 13:29:03.419013
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-19 13:30:04.273977
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-19 13:31:03.390971
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-19 13:32:03.874458
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-19 13:33:03.517635
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-19 13:34:03.137232
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-19 13:35:03.338233
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-19 13:36:03.970329
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-19 13:37:03.338651
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-19 13:38:03.628823
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-19 13:39:03.993716
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-19 13:40:03.402747
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-19 13:41:03.739892
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-19 13:42:04.074071
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-19 13:43:03.291632
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-19 13:44:03.645988
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-19 13:45:04.197419
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-19 13:46:03.450841
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-19 13:47:03.546671
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-19 13:48:04.338953
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-19 13:49:03.444636
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-19 13:50:03.754472
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-19 13:51:03.125829
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-19 13:52:03.364953
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-19 13:53:04.010572
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-19 13:54:03.347564
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-19 13:55:03.640585
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-19 13:56:04.297198
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-19 13:57:03.583493
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-19 13:58:03.836525
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-19 13:59:03.288048
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-19 14:05:03.878793
+Previous value: 0
+Value: 3000
+Steps: 3000
+
+
+2020-02-20 01:00:03.723643
+Previous value: 3000
+Value: 0
+Steps: 3000
+
+
+2020-02-20 01:01:04.174901
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-20 01:02:03.426589
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-20 01:03:04.003384
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-20 01:04:03.167778
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-20 01:05:03.404771
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-20 01:06:03.919344
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-20 01:07:03.117130
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-20 01:08:03.376896
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-20 01:09:04.301159
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-20 01:10:03.391997
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-20 01:11:03.728279
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-20 01:12:04.107384
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-20 01:13:03.447460
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-20 01:14:03.748025
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-20 01:15:04.332092
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-20 01:16:03.500141
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-20 01:17:03.677084
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-20 01:18:04.119737
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-20 01:19:03.301367
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-20 01:20:03.552535
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-20 01:21:04.192048
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-20 01:22:03.772247
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-20 01:23:03.812076
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-20 01:24:03.264042
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-20 01:25:03.438154
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-20 01:26:03.929586
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-20 01:27:03.194828
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-20 01:28:03.487946
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-20 01:29:04.227378
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-20 01:30:03.544132
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-20 01:31:03.608360
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-20 01:32:04.146968
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-20 01:33:03.544816
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-20 01:34:05.503184
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-20 01:35:03.114660
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-20 01:36:03.425240
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-20 01:37:06.349599
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-20 01:38:03.782929
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-20 01:39:03.022564
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-20 01:40:03.374662
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-20 01:41:03.720181
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-20 01:42:04.116345
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-20 01:43:03.488098
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-20 01:44:03.745933
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-20 01:45:04.222088
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-20 01:46:03.576148
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-20 01:47:03.939109
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-20 01:48:03.381434
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-20 01:49:03.639794
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-20 01:50:04.098927
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-20 01:51:03.404783
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-20 01:52:03.668108
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-20 01:53:04.111365
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-20 01:54:03.424304
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-20 01:55:03.848131
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-20 01:56:03.491487
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-20 01:57:03.851833
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-20 01:58:03.177029
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-20 01:59:04.010053
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-20 04:30:04.020874
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-20 13:00:03.432002
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-20 13:01:03.693747
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-20 13:02:04.009317
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-20 13:03:03.536977
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-20 13:04:03.672717
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-20 13:05:03.883285
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-20 13:06:03.476106
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-20 13:07:03.651598
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-20 13:08:03.992629
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-20 13:09:03.616006
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-20 13:10:03.941782
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-20 13:11:03.223948
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-20 13:12:03.602863
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-20 13:13:03.855408
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-20 13:14:03.140594
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-20 13:15:03.658406
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-20 13:16:03.971298
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-20 13:17:03.546717
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-20 13:18:03.811214
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-20 13:19:03.143922
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-20 13:20:03.253781
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-20 13:21:03.785915
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-20 13:22:03.194772
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-20 13:23:03.496562
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-20 13:24:03.996355
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-20 13:25:03.227653
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-20 13:26:03.598345
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-20 13:27:04.222151
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-20 13:28:03.487632
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-20 13:29:03.927391
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-20 13:30:03.545648
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-20 13:31:03.843810
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-20 13:32:03.052198
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-20 13:33:03.593365
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-20 13:34:03.686491
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-20 13:35:03.195896
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-20 13:36:03.940250
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-20 13:37:03.527295
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-20 13:38:03.794347
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-20 13:39:03.275136
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-20 13:40:03.661003
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-20 13:41:04.014195
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-20 13:42:03.533828
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-20 13:43:03.709971
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-20 13:44:03.145281
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-20 13:45:03.711957
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-20 13:46:03.751802
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-20 13:47:03.449254
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-20 13:48:03.726883
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-20 13:49:03.840988
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-20 13:50:03.354662
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-20 13:51:03.430199
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-20 13:52:03.841630
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-20 13:53:03.297233
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-20 13:54:03.602754
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-20 13:55:03.785138
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-20 13:56:03.330913
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-20 13:57:03.592029
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-20 13:58:03.897239
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-20 13:59:03.239607
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-20 14:05:03.851080
+Previous value: 0
+Value: 3000
+Steps: 3000
+
+
+2020-02-21 01:00:03.109266
+Previous value: 3000
+Value: 0
+Steps: 3000
+
+
+2020-02-21 01:01:03.408326
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-21 01:02:03.812935
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-21 01:03:03.141021
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-21 01:04:03.405632
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-21 01:05:04.832334
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-21 01:06:03.493777
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-21 01:07:04.792506
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-21 01:08:04.994079
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-21 01:09:13.042598
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-21 01:10:03.937508
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-21 01:11:03.077143
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-21 01:12:03.655362
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-21 01:13:03.874791
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-21 01:14:03.140596
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-21 01:15:03.744111
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-21 01:16:03.978593
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-21 01:17:03.434106
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-21 01:18:03.928138
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-21 01:19:03.149814
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-21 01:20:03.395416
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-21 01:21:04.105846
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-21 01:22:03.458412
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-21 01:23:03.854047
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-21 01:24:03.403040
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-21 01:25:03.658741
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-21 01:26:04.127294
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-21 01:27:03.386011
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-21 01:28:03.690621
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-21 01:29:03.055300
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-21 01:30:03.663549
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-21 01:31:03.890355
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-21 01:32:03.398314
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-21 01:33:03.999407
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-21 01:34:03.306370
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-21 01:35:03.747936
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-21 01:36:04.249649
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-21 01:37:03.550666
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-21 01:38:03.621342
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-21 01:39:04.159160
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-21 01:40:03.337503
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-21 01:41:03.560154
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-21 01:42:04.200147
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-21 01:43:03.363031
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-21 01:44:03.769781
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-21 01:45:03.387813
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-21 01:46:03.604409
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-21 01:47:03.728909
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-21 01:48:03.283950
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-21 01:49:03.511750
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-21 01:50:04.053904
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-21 01:51:03.311233
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-21 01:52:03.582383
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-21 01:53:04.086417
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-21 01:54:03.233105
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-21 01:55:03.386481
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-21 01:56:03.794050
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-21 01:57:02.950428
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-21 01:58:03.252535
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-21 01:59:03.764336
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-21 04:30:04.072936
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-21 13:00:03.242929
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-21 13:01:03.644598
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-21 13:02:03.799837
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-21 13:03:03.389476
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-21 13:04:03.663452
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-21 13:05:02.929414
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-21 13:06:03.284724
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-21 13:07:03.613318
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-21 13:08:04.280997
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-21 13:09:03.407937
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-21 13:10:03.867646
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-21 13:11:03.471458
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-21 13:12:03.707354
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-21 13:13:03.887489
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-21 13:14:03.356423
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-21 13:15:03.671630
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-21 13:16:03.880637
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-21 13:17:03.409576
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-21 13:18:03.721411
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-21 13:19:02.875347
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-21 13:20:03.393254
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-21 13:21:03.755650
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-21 13:22:03.975712
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-21 13:23:03.561209
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-21 13:24:03.791694
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-21 13:25:03.108854
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-21 13:26:03.803951
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-21 13:27:02.957936
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-21 13:28:03.512329
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-21 13:29:04.013351
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-21 13:30:03.439927
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-21 13:31:03.627313
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-21 13:32:04.036339
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-21 13:33:03.213370
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-21 13:34:03.575079
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-21 13:35:04.063499
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-21 13:36:03.275235
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-21 13:37:03.782439
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-21 13:38:03.353995
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-21 13:39:03.779579
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-21 13:40:04.087546
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-21 13:41:03.495246
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-21 13:42:03.596048
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-21 13:43:03.922994
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-21 13:44:03.416741
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-21 13:45:03.722326
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-21 13:46:03.024099
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-21 13:47:03.547708
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-21 13:48:03.761707
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-21 13:49:02.882551
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-21 13:50:03.412906
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-21 13:51:03.611405
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-21 13:52:04.052123
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-21 13:53:03.387733
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-21 13:54:03.687787
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-21 13:55:03.187129
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-21 13:56:03.308914
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-21 13:57:03.491376
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-21 13:58:04.434862
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-21 13:59:03.720536
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-21 14:05:04.307399
+Previous value: 0
+Value: 3000
+Steps: 3000
+
+
+2020-02-22 01:00:03.947475
+Previous value: 3000
+Value: 0
+Steps: 3000
+
+
+2020-02-22 01:01:03.809343
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-22 01:02:03.018584
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-22 01:03:03.715229
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-22 01:04:03.725823
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-22 01:05:03.124142
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-22 01:06:03.928862
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-22 01:07:03.127562
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-22 01:08:03.310477
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-22 01:09:03.813035
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-22 01:10:03.986642
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-22 01:11:03.099560
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-22 01:12:03.971471
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-22 01:13:03.186593
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-22 01:14:03.472933
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-22 01:15:03.857176
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-22 01:16:03.049533
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-22 01:17:03.492971
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-22 01:18:03.917652
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-22 01:19:04.000671
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-22 01:20:03.240914
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-22 01:21:03.882483
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-22 01:22:02.942837
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-22 01:23:03.431439
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-22 01:24:04.131582
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-22 01:25:03.127546
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-22 01:26:03.493578
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-22 01:27:04.045739
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-22 01:28:03.371642
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-22 01:29:03.789011
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-22 01:30:03.357341
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-22 01:31:03.613088
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-22 01:32:03.986148
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-22 01:33:03.682771
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-22 01:34:03.747724
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-22 01:35:03.836509
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-22 01:36:03.431277
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-22 01:37:03.640098
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-22 01:38:03.809650
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-22 01:39:03.787771
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-22 01:40:03.872074
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-22 01:41:03.110785
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-22 01:42:03.676438
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-22 01:43:03.815792
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-22 01:44:03.140807
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-22 01:45:03.981605
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-22 01:46:03.970490
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-22 01:47:03.303314
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-22 01:48:03.939233
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-22 01:49:03.472596
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-22 01:50:03.749190
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-22 01:51:03.696332
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-22 01:52:03.749077
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-22 01:53:03.168094
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-22 01:54:03.912430
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-22 01:55:03.144525
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-22 01:56:03.517559
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-22 01:57:04.102233
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-22 01:58:03.195410
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-22 01:59:03.465631
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-22 04:30:03.514045
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-22 13:00:03.191790
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-22 13:01:03.437988
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-22 13:02:03.672948
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-22 13:03:04.096906
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-22 13:04:03.432972
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-22 13:05:03.729540
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-22 13:06:03.099703
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-22 13:07:03.505349
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-22 13:08:03.677264
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-22 13:09:04.169699
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-22 13:10:03.369541
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-22 13:11:03.590595
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-22 13:12:04.176102
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-22 13:13:03.394038
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-22 13:14:03.735973
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-22 13:15:03.298411
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-22 13:16:03.530603
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-22 13:17:04.036446
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-22 13:18:03.340395
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-22 13:19:03.497610
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-22 13:20:04.068957
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-22 13:21:03.358251
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-22 13:22:03.621183
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-22 13:23:04.119481
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-22 13:24:03.451928
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-22 13:25:03.626513
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-22 13:26:03.360486
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-22 13:27:03.507126
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-22 13:28:03.802425
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-22 13:29:03.047773
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-22 13:30:03.296151
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-22 13:31:04.012290
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-22 13:32:03.171099
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-22 13:33:03.504207
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-22 13:34:03.952898
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-22 13:35:03.203951
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-22 13:36:03.391339
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-22 13:37:03.989749
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-22 13:38:03.188533
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-22 13:39:03.521475
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-22 13:40:03.891135
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-22 13:41:03.155011
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-22 13:42:03.371678
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-22 13:43:03.708088
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-22 13:44:03.055541
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-22 13:45:03.245961
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-22 13:46:03.715709
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-22 13:47:03.126873
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-22 13:48:03.447843
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-22 13:49:03.890484
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-22 13:50:03.042992
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-22 13:51:03.302773
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-22 13:52:03.759713
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-22 13:53:03.213106
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-22 13:54:03.601161
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-22 13:55:04.032792
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-22 13:56:03.431859
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-22 13:57:03.681128
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-22 13:58:03.992397
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-22 13:59:03.393695
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-22 14:05:03.636548
+Previous value: 0
+Value: 3000
+Steps: 3000
+
+
+2020-02-23 01:00:04.464571
+Previous value: 3000
+Value: 0
+Steps: 3000
+
+
+2020-02-23 01:01:03.855284
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-23 01:02:02.970401
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-23 01:03:03.849577
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-23 01:04:03.218006
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-23 01:05:03.452337
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-23 01:06:04.132900
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-23 01:07:03.520150
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-23 01:08:03.207371
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-23 01:09:03.853516
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-23 01:10:03.076797
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-23 01:11:03.564303
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-23 01:12:04.268570
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-23 01:13:03.458138
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-23 01:14:03.887667
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-23 01:15:03.431960
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-23 01:16:03.847520
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-23 01:17:03.398560
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-23 01:18:04.148323
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-23 01:19:03.456008
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-23 01:20:03.721884
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-23 01:21:04.224168
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-23 01:22:03.439037
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-23 01:23:03.717946
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-23 01:24:03.344881
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-23 01:25:03.630781
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-23 01:26:04.177874
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-23 01:27:03.476484
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-23 01:28:03.790193
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-23 01:29:03.264927
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-23 01:30:03.648643
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-23 01:31:04.517578
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-23 01:32:04.186485
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-23 01:33:05.780796
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-23 01:34:05.334268
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-23 01:35:04.236021
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-23 01:36:04.154116
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-23 01:37:03.358779
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-23 01:38:04.066375
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-23 01:39:03.299360
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-23 01:40:03.819477
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-23 01:41:03.206555
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-23 01:42:03.506583
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-23 01:43:04.137051
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-23 01:44:03.650214
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-23 01:45:03.056625
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-23 01:46:03.306042
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-23 01:47:04.005526
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-23 01:48:03.138938
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-23 01:49:03.463766
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-23 01:50:04.019597
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-23 01:51:03.354323
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-23 01:52:03.820574
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-23 01:53:04.899148
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-23 01:54:03.977203
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-23 01:55:03.811391
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-23 01:56:04.296855
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-23 01:57:04.778309
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-23 01:58:03.504248
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-23 01:59:04.059618
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-23 04:30:04.021608
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-23 13:00:03.574203
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-23 13:01:03.764123
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-23 13:02:04.098329
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-23 13:03:03.712151
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-23 13:04:04.054079
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-23 13:05:03.262144
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-23 13:06:03.837112
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-23 13:07:03.072744
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-23 13:08:03.326684
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-23 13:09:03.710995
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-23 13:10:03.013863
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-23 13:11:03.250285
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-23 13:12:03.871239
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-23 13:13:02.983907
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-23 13:14:03.251519
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-23 13:15:03.883374
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-23 13:16:03.043970
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-23 13:17:03.551142
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-23 13:18:03.918484
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-23 13:19:03.073234
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-23 13:20:03.320164
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-23 13:21:03.849400
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-23 13:22:03.042406
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-23 13:23:03.441943
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-23 13:24:03.806581
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-23 13:25:03.058050
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-23 13:26:03.352483
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-23 13:27:03.972089
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-23 13:28:03.109531
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-23 13:29:03.437898
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-23 13:30:03.872962
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-23 13:31:03.178806
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-23 13:32:03.392899
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-23 13:33:03.897584
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-23 13:34:03.209876
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-23 13:35:03.817323
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-23 13:36:03.438096
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-23 13:37:03.662870
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-23 13:38:04.049171
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-23 13:39:03.544069
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-23 13:40:03.909208
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-23 13:41:03.059786
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-23 13:42:03.738323
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-23 13:43:03.945475
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-23 13:44:03.116681
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-23 13:45:03.581005
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-23 13:46:04.144171
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-23 13:47:03.431826
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-23 13:48:04.007435
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-23 13:49:03.347354
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-23 13:50:03.495534
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-23 13:51:04.186065
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-23 13:52:03.263075
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-23 13:53:03.456098
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-23 13:54:04.188803
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-23 13:55:03.535130
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-23 13:56:03.738051
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-23 13:57:03.248388
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-23 13:58:03.572871
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-23 13:59:03.895994
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-23 14:05:03.499425
+Previous value: 0
+Value: 3000
+Steps: 3000
+
+
+2020-02-24 01:00:04.014566
+Previous value: 3000
+Value: 0
+Steps: 3000
+
+
+2020-02-24 01:01:03.216697
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-24 01:02:03.528413
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-24 01:03:04.053095
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-24 01:04:03.342699
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-24 01:05:03.686455
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-24 01:06:03.214391
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-24 01:07:03.569546
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-24 01:08:04.045910
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-24 01:09:03.430675
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-24 01:10:03.702787
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-24 01:11:03.151153
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-24 01:12:03.463301
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-24 01:13:03.669568
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-24 01:14:04.286267
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-24 01:15:03.404203
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-24 01:16:03.653290
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-24 01:17:04.222535
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-24 01:18:03.511594
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-24 01:19:03.777227
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-24 01:20:03.158115
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-24 01:21:03.507453
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-24 01:22:03.664528
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-24 01:23:04.185971
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-24 01:24:03.424337
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-24 01:25:03.637601
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-24 01:26:04.207467
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-24 01:27:03.384316
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-24 01:28:03.839603
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-24 01:29:03.211387
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-24 01:30:03.543123
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-24 01:31:03.859405
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-24 01:32:03.207285
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-24 01:33:03.621671
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-24 01:34:03.849530
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-24 01:35:03.466868
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-24 01:36:03.823457
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-24 01:37:02.900434
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-24 01:38:03.666111
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-24 01:39:03.965866
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-24 01:40:03.337603
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-24 01:41:03.935640
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-24 01:42:03.155520
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-24 01:43:04.019915
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-24 01:44:03.441642
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-24 01:45:03.781856
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-24 01:46:04.250350
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-24 01:47:03.459667
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-24 01:48:03.688275
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-24 01:49:03.293560
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-24 01:50:03.571324
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-24 01:51:03.871966
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-24 01:52:03.869621
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-24 01:53:03.100777
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-24 01:54:03.489043
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-24 01:55:04.016775
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-24 01:56:03.530611
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-24 01:57:03.858087
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-24 01:58:03.212566
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-24 01:59:03.604183
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-24 04:30:03.463107
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-24 13:00:03.977598
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-24 13:01:03.417821
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-24 13:02:03.777120
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-24 13:03:04.219416
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-24 13:04:03.532469
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-24 13:05:03.949041
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-24 13:06:03.419558
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-24 13:07:03.738297
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-24 13:08:02.977105
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-24 13:09:03.588126
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-24 13:10:03.940541
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-24 13:11:03.831612
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-24 13:12:03.536442
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-24 13:13:03.615530
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-24 13:14:04.010390
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-24 13:15:03.442245
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-24 13:16:03.817981
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-24 13:17:03.521294
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-24 13:18:03.931382
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-24 13:19:03.169867
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-24 13:20:03.332425
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-24 13:21:03.767489
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-24 13:22:03.122388
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-24 13:23:03.364183
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-24 13:24:03.894480
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-24 13:25:03.407107
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-24 13:26:03.704778
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-24 13:27:04.343613
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-24 13:28:03.491429
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-24 13:29:03.828447
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-24 13:30:03.346138
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-24 13:31:03.625630
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-24 13:32:03.965486
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-24 13:33:03.386081
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-24 13:34:03.740512
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-24 13:35:03.012319
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-24 13:36:03.394794
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-24 13:37:03.652216
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-24 13:38:03.358399
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-24 13:39:03.619796
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-24 13:40:03.944522
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-24 13:41:03.161272
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-24 13:42:03.643926
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-24 13:43:03.110792
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-24 13:44:03.353855
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-24 13:45:03.796258
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-24 13:46:03.039394
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-24 13:47:03.640244
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-24 13:48:03.876086
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-24 13:49:03.273372
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-24 13:50:03.734169
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-24 13:51:03.221420
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-24 13:52:03.657395
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-24 13:53:03.988825
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-24 13:54:03.646467
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-24 13:55:03.764844
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-24 13:56:03.170067
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-24 13:57:03.541529
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-24 13:58:03.901533
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-24 13:59:03.169852
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-24 14:05:03.602733
+Previous value: 0
+Value: 3000
+Steps: 3000
+
+
+2020-02-25 01:00:03.224686
+Previous value: 3000
+Value: 0
+Steps: 3000
+
+
+2020-02-25 01:01:03.630248
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-25 01:02:04.196787
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-25 01:03:03.238505
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-25 01:04:03.709347
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-25 01:05:03.181541
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-25 01:06:03.453350
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-25 01:07:03.858745
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-25 01:08:03.168064
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-25 01:09:03.523214
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-25 01:10:03.169010
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-25 01:11:03.545341
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-25 01:12:04.087186
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-25 01:13:03.483864
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-25 01:14:03.706960
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-25 01:15:04.227972
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-25 01:16:03.632880
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-25 01:17:03.837404
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-25 01:18:03.279307
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-25 01:19:03.575367
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-25 01:20:03.993566
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-25 01:21:03.417171
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-25 01:22:03.631293
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-25 01:23:03.264704
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-25 01:24:03.496539
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-25 01:25:03.764151
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-25 01:26:03.330869
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-25 01:27:03.579319
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-25 01:28:03.250855
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-25 01:29:03.719740
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-25 01:30:03.987076
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-25 01:31:03.292950
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-25 01:32:03.859307
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-25 01:33:03.060299
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-25 01:34:03.527824
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-25 01:35:03.763557
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-25 01:36:03.032873
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-25 01:37:03.365485
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-25 01:38:04.195328
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-25 01:39:03.422933
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-25 01:40:03.849257
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-25 01:41:03.418931
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-25 01:42:03.634095
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-25 01:43:04.188124
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-25 01:44:03.529412
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-25 01:45:03.801993
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-25 01:46:03.203512
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-25 01:47:03.631297
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-25 01:48:03.859006
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-25 01:49:03.577605
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-25 01:50:04.008232
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-25 01:51:03.401281
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-25 01:52:03.837594
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-25 01:53:03.125973
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-25 01:54:03.505288
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-25 01:55:04.004107
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-25 01:56:03.320307
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-25 01:57:03.519510
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-25 01:58:05.373137
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-25 01:59:03.776050
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-25 04:30:03.669578
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-25 13:00:03.505521
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-25 13:01:03.638624
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-25 13:02:04.237031
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-25 13:03:03.669418
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-25 13:04:03.899927
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-25 13:05:03.386516
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-25 13:06:03.580330
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-25 13:07:03.947097
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-25 13:08:03.399061
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-25 13:09:03.887984
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-25 13:10:04.036731
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-25 13:11:03.244051
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-25 13:12:03.635025
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-25 13:13:03.992694
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-25 13:14:03.378030
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-25 13:15:03.760549
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-25 13:16:03.334869
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-25 13:17:03.826016
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-25 13:18:04.255599
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-25 13:19:03.429542
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-25 13:20:04.105872
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-25 13:21:03.665257
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-25 13:22:03.884267
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-25 13:23:03.366288
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-25 13:24:03.884511
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-25 13:25:03.318509
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-25 13:26:03.500647
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-25 13:27:04.015045
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-25 13:28:03.338790
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-25 13:29:03.623020
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-25 13:30:04.269496
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-25 13:31:03.410078
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-25 13:32:03.609330
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-25 13:33:04.046982
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-25 13:34:03.398936
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-25 13:35:03.794866
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-25 13:36:03.286849
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-25 13:37:03.602652
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-25 13:38:03.827978
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-25 13:39:03.268034
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-25 13:40:03.781866
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-25 13:41:03.219393
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-25 13:42:03.645402
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-25 13:43:03.870525
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-25 13:44:03.239951
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-25 13:45:03.635771
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-25 13:46:03.979272
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-25 13:47:03.245027
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-25 13:48:03.702135
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-25 13:49:03.862019
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-25 13:50:03.296231
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-25 13:51:03.768360
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-25 13:52:02.986213
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-25 13:53:03.322910
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-25 13:54:03.947435
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-25 13:55:03.065281
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-25 13:56:03.551491
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-25 13:57:04.161500
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-25 13:58:03.375753
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-25 13:59:03.634046
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-25 14:05:04.294296
+Previous value: 0
+Value: 3000
+Steps: 3000
+
+
+2020-02-25 15:23:27.187935
+Previous value: 3000
+Value: 0
+Steps: 3000
+
+
+2020-02-25 16:49:38.229240
+Previous value: 0
+Value: 3000
+Steps: 3000
+
+
+2020-02-25 17:09:34.556525
+Previous value: 3000
+Value: 0
+Steps: 3000
+
+
+2020-02-25 18:12:33.722766
+Previous value: 0
+Value: 1123
+Steps: 3000
+
+
+2020-02-25 18:12:46.976808
+Previous value: 1123
+Value: 1112
+Steps: 3000
+
+
+2020-02-25 18:12:50.494153
+Previous value: 1112
+Value: 1111
+Steps: 3000
+
+
+2020-02-25 18:15:24.939645
+Previous value: 1111
+Value: 11
+Steps: 1100
+
+
+2020-02-25 18:15:33.696305
+Previous value: 0
+Value: 11
+Steps: 3000
+
+
+2020-02-25 18:15:51.914497
+Previous value: 0
+Value: 11
+Steps: 3000
+
+
+2020-02-25 18:15:56.048374
+Previous value: 11
+Value: 1100
+Steps: 3000
+
+
+2020-02-25 18:16:31.416557
+Previous value: 1100
+Value: 11
+Steps: 3000
+
+
+2020-02-25 18:16:40.085513
+Previous value: 11
+Value: 39
+Steps: 3000
+
+
+2020-02-25 18:22:40.364268
+Previous value: 39
+Value: 1072
+Steps: 3000
+
+
+2020-02-25 18:22:58.348378
+Previous value: 1072
+Value: 39
+Steps: 3000
+
+
+2020-02-25 18:23:25.729622
+Previous value: 39
+Value: 1072
+Steps: 3000
+
+
+2020-02-25 18:23:39.171198
+Previous value: 1072
+Value: 0
+Steps: 1072
+
+
+2020-02-25 18:23:41.041601
+Previous value: 0
+Value: 1
+Steps: 3000
+
+
+2020-02-25 18:23:46.236403
+Previous value: 1
+Value: 0
+Steps: 1
+
+
+2020-02-25 18:23:51.092577
+Previous value: 0
+Value: 10
+Steps: 3000
+
+
+2020-02-25 18:24:03.572550
+Previous value: 10
+Value: 0
+Steps: 10
+
+
+2020-02-25 18:24:17.347852
+Previous value: 0
+Value: 100
+Steps: 3000
+
+
+2020-02-25 18:25:23.671635
+Previous value: 0
+Value: 100
+Steps: 3000
+
+
+2020-02-25 18:26:35.598477
+Previous value: 0
+Value: 100
+Steps: 100
+
+
+2020-02-25 18:26:46.468475
+Previous value: 100
+Value: 0
+Steps: 3000
+
+
+2020-02-25 18:27:44.813898
+Previous value: 0
+Value: 100
+Steps: 100
+
+
+2020-02-25 18:27:48.333792
+Previous value: 100
+Value: 0
+Steps: 3000
+
+
+2020-02-25 18:30:32.332708
+Previous value: 0
+Value: 100
+Steps: 100
+
+
+2020-02-25 18:30:37.132322
+Previous value: 100
+Value: 0
+Steps: 3000
+
+
+2020-02-25 18:31:00.582604
+Previous value: 0
+Value: 100
+Steps: 100
+
+
+2020-02-25 18:31:09.560403
+Previous value: 100
+Value: 0
+Steps: 3000
+
+
+2020-02-25 18:31:27.274848
+Previous value: 0
+Value: 100
+Steps: 100
+
+
+2020-02-25 18:31:29.469723
+Previous value: 100
+Value: 0
+Steps: 0
+
+
+2020-02-25 18:31:34.737379
+Previous value: 0
+Value: 100
+Steps: 100
+
+
+2020-02-25 18:31:57.538166
+Previous value: 100
+Value: 100
+Steps: 0
+
+
+2020-02-25 18:31:59.472449
+Previous value: 100
+Value: 100
+Steps: 0
+
+
+2020-02-25 18:32:00.904836
+Previous value: 100
+Value: 100
+Steps: 0
+
+
+2020-02-25 18:32:02.542148
+Previous value: 100
+Value: 1
+Steps: -99
+
+
+2020-02-25 18:32:20.908488
+Previous value: 1
+Value: -100
+Steps: -101
+
+
+2020-02-25 18:32:23.904328
+Previous value: -100
+Value: -202
+Steps: -102
+
+
+2020-02-25 18:32:27.730515
+Previous value: -202
+Value: -202
+Steps: 0
+
+
+2020-02-25 18:32:29.242289
+Previous value: -202
+Value: -202
+Steps: 0
+
+
+2020-02-25 18:32:32.469819
+Previous value: -202
+Value: -202
+Steps: 0
+
+
+2020-02-25 18:32:35.377019
+Previous value: -202
+Value: -313
+Steps: -111
+
+
+2020-02-25 18:32:39.365627
+Previous value: -313
+Value: -1334
+Steps: -1021
+
+
+2020-02-25 18:32:42.270828
+Previous value: -1334
+Value: -2355
+Steps: -1021
+
+
+2020-02-25 18:32:47.159555
+Calibrating...
+Ensure to kill when blinds are fully down (at 0)
+
+2020-02-25 18:32:51.389514
+Previous value: 0
+Value: -1021
+Steps: -1021
+
+
+2020-02-25 18:33:05.434165
+Calibrating...
+Ensure to kill when blinds are fully down (at 0)
+
+2020-02-25 18:33:07.466065
+Previous value: 0
+Value: -1021
+Steps: 1021
+
+
+2020-02-25 18:33:50.258432
+Calibrating...
+Ensure to kill when blinds are fully down (at 0)
+
+2020-02-25 18:33:52.061164
+Previous value: 0
+Value: 1021
+Steps: 1021
+
+
+2020-02-25 18:33:59.949898
+Previous value: 1021
+Value: 1021
+Steps: 0
+
+
+2020-02-25 18:34:02.311342
+Previous value: 1021
+Value: 1021
+Steps: 0
+
+
+2020-02-25 18:34:03.672929
+Previous value: 1021
+Value: 1
+Steps: -1020
+
+
+2020-02-25 18:34:29.376552
+Previous value: 1
+Value: 1021
+Steps: 1020
+
+
+2020-02-25 18:34:40.258486
+Previous value: 1021
+Value: 1
+Steps: -1020
+
+
+2020-02-25 18:35:05.441783
+Previous value: 1
+Value: 1021
+Steps: -1020
+
+
+2020-02-25 18:35:09.505220
+Calibrating...
+Ensure to kill when blinds are fully down (at 0)
+
+2020-02-25 18:35:11.579788
+Previous value: 0
+Value: 1022
+Steps: -1022
+
+
+2020-02-25 18:35:56.243409
+Calibrating...
+Ensure to kill when blinds are fully down (at 0)
+
+2020-02-25 18:35:57.867252
+Previous value: 0
+Value: 1022
+Steps: -1022
+
+
+2020-02-25 18:36:06.113514
+Previous value: 1022
+Value: 1022
+Steps: 0
+
+
+2020-02-25 18:36:09.195552
+Previous value: 1022
+Value: 1022
+Steps: 0
+
+
+2020-02-25 18:36:12.808510
+Previous value: 1022
+Value: 1023
+Steps: 1
+
+
+2020-02-25 18:36:18.280542
+Previous value: 1023
+Value: 1024
+Steps: 1
+
+
+2020-02-25 18:36:21.314544
+Previous value: 1024
+Value: 1022
+Steps: 2
+
+
+2020-02-25 18:36:29.131890
+Previous value: 1022
+Value: 10
+Steps: 1012
+
+
+2020-02-25 18:36:34.814483
+Previous value: 10
+Value: 0
+Steps: 10
+
+
+2020-02-25 18:36:43.558047
+Previous value: 0
+Value: 6000
+Steps: 6000
+
+
+2020-02-25 18:36:48.859115
+Previous value: 6000
+Value: 4000
+Steps: 2000
+
+
+2020-02-25 18:38:06.066616
+Previous value: 4000
+Value: 0
+Steps: 4000
+
+
+2020-02-25 18:38:16.820600
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-25 18:38:33.640243
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-25 18:38:42.658256
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-25 18:38:52.932162
+Previous value: 0
+Value: 120
+Steps: 120
+
+
+2020-02-25 18:39:21.036661
+Previous value: 120
+Value: 0
+Steps: 120
+
+
+2020-02-25 18:39:26.008647
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-25 18:39:57.553200
+Previous value: 0
+Value: 10
+Steps: 10
+
+
+2020-02-25 18:40:38.232433
+Previous value: 10
+Value: 0
+Steps: 10
+
+
+2020-02-25 18:40:57.643565
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-25 18:41:13.740540
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-25 18:41:24.593004
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-25 18:41:32.089937
+Previous value: 0
+Value: 0
+Steps: 0
+
+
+2020-02-25 18:42:06.114865
+Previous value: 0
+Value: 600
+Steps: 600
+
+
+2020-02-25 18:42:15.710236
+Previous value: 600
+Value: 600
+Steps: 0
+
+
+2020-02-25 18:42:46.118820
+Previous value: 600
+Value: 3540
+Steps: 2940
+
+
+2020-02-25 18:42:53.068713
+Previous value: 3540
+Value: 3540
+Steps: 0
+
+
+2020-02-25 18:43:24.337786
+Previous value: 3540
+Value: 3540
+Steps: 0
+
+
+2020-02-25 18:43:28.823428
+Previous value: 3540
+Value: 3600
+Steps: 60
+
+
+2020-02-25 18:43:30.396905
+Previous value: 3600
+Value: 3600
+Steps: 0
+
+
+2020-02-25 18:43:44.806379
+Previous value: 3600
+Value: 3600
+Steps: 0
+
+
+2020-02-25 18:43:50.326056
+Calibrating...
+Ensure to kill when blinds are fully down (at 0)
+
+2020-02-25 18:43:53.197641
+Calibrating...
+Ensure to kill when blinds are fully down (at 0)
+
+2020-02-25 18:43:58.591060
+Previous value: 0
+Value: 3000
+Steps: 3000
+
+
+2020-02-25 19:02:59.501039
+Previous value: 3000
+Value: 0
+Steps: 3000
+
+
+2020-02-25 19:28:02.568499
+Previous value: 0
+Value: 3000
+Steps: 3000
+
+

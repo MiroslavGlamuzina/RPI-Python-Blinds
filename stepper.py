@@ -46,10 +46,22 @@ def move(sequence, delay, steps):
 
 if sys.argv[1] == 'down' or sys.argv[1] == '1':
     TYPE = DOWN_SEQUENCE
-    STEPS = update('DOWN')
+    STEPS = update('DOWN')[0]
 elif sys.argv[1] == 'up' or sys.argv[1] == '0':
     TYPE = UP_SEQUENCE
-    STEPS = update('UP')
+    STEPS = update('UP')[0]
+elif sys.argv[1] == 'set':
+    tmp = update('SET', int(sys.argv[2]))
+    STEPS = tmp[0]
+    TYPE = UP_SEQUENCE if tmp[1] else DOWN_SEQUENCE
+elif sys.argv[1] == 'open':
+    tmp = update('SET', 50)
+    STEPS = tmp[0]
+    TYPE = UP_SEQUENCE if tmp[1] else DOWN_SEQUENCE
+elif sys.argv[1] == 'close':
+    tmp = update('SET', 0)
+    STEPS = tmp[0]
+    TYPE = UP_SEQUENCE if tmp[1] else DOWN_SEQUENCE
 elif sys.argv[1] == 'calibrate' or sys.argv[1] == 'c':
     log("Calibrating...\r\nEnsure to kill when blinds are fully down (at 0)")
     TYPE = DOWN_SEQUENCE
